@@ -1,0 +1,48 @@
+body {
+background-color: #CADEFC;
+text-align: center;
+
+}
+
+
+hr {
+  border-style: none;
+  border-top: dotted;
+  width: 35%;
+  border-color: #e37cff;
+  border-width: 5px;
+
+}
+
+
+img {
+  height: 280px;
+}
+
+table {
+  font-family: Cambria, Cambria;
+  align-items: center;
+  text-align: center;
+}
+
+p {
+  font-size: 1.2rem;
+ }
+
+ ul {
+   list-style-type: square;
+
+ }
+
+h1 {
+  color: Black;
+}
+
+h3 {
+  color: #1d35d6;
+}
+
+center {
+  margin-left: auto;
+  margin-right: auto;
+}
